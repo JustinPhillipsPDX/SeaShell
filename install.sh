@@ -1,5 +1,5 @@
-# Main Bash script for Linux/macOS
 #!/bin/bash
+# Main Bash script for Linux/macOS
 
 # Detect OS and architecture
 echo "Detecting system..."
