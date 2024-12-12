@@ -1,4 +1,4 @@
-# SeaShell
+# 🐚 SeaShell
 
 SeaShell is a lightweight, platform-agnostic installer and builder for C++ applications, designed to simplify cross-platform development and deployment. By leveraging platform-native scripts, SeaShell ensures compatibility by compiling source code directly on the user's system.
 
