@@ -1,6 +1,6 @@
 #!/bin/bash
-# Main Bash script for Linux/macOS
 
+# Main Bash script for Linux/macOS
 # Detect OS and architecture
 echo "Detecting system..."
 OS=$(uname -s)
